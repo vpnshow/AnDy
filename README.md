@@ -6,20 +6,17 @@
 
 [完整详情与最新套餐](https://eoht.net/serve/airport/andy) · [机场仓库汇总](https://github.com/vpnshow/airport-summary)
 
-安迪云（AnDy）提供 **VLESS 协议**节点，支持通用订阅，套餐按流量、标注速率和设备数量区分。轻量年付套餐为 **¥30/年、50GB/月**，折合 **¥2.50/月**；月付从 **¥5/月、100GB/月**起，最高流量档为 **1000GB/月**。另有 **¥100/1000GB** 的一次性不限时流量包，可按使用频率选择周期订阅或固定总流量。
-
 > [!NOTE]
 > **30 秒看懂安迪云(AnDy)**
 >
-> - **最低年付**：年付-50G 为 ¥30/年、50GB/月，折合 ¥2.50/月，需一次支付全年费用。
-> - **月付起步**：¥5/月、100GB/月，另有 300GB、500GB 和 1000GB/月档位。
-> - **不限时流量包**：一次性 ¥100、总流量 1000GB，没有到期日，用完为止。
-> - **专属优惠码**：`eoht` 享 8 折，适用套餐及其他条件以结算页为准。
-> - **协议与订阅**：全部套餐使用 VLESS，支持通用订阅；各档设备数量与速率限制不同。
-> - **支付方式**：支付宝、微信支付、USDT。
+> [访问官网](https://eoht.net/serve/airport/andy) · [查看套餐与优惠码](https://eoht.net/serve/airport/andy#andy-vpn-plans) · [查看续费与流量重置](https://eoht.net/serve/airport/andy#andy-renewal-and-traffic-reset) · [查看机场推荐一览表](https://eoht.net/serve/airport/summary#vpn-airport-plan-comparison)
 >
-> [查看套餐与优惠码](https://eoht.net/serve/airport/andy#andy-vpn-plans) · [查看续费与流量重置](https://eoht.net/serve/airport/andy#andy-renewal-and-traffic-reset) · [查看机场推荐一览表](https://eoht.net/serve/airport/summary#vpn-airport-plan-comparison)
+> - **入门方案**：年付-50G 为 ¥30/年、50GB/月；按月付款可选 ¥5/月、100GB/月。
+> - **使用方式**：VLESS 通用订阅，各档设备数与速率限制不同；另有 ¥100、1000GB 的不限时总流量包，用完为止。
+> - **专属优惠**：`eoht` 享 8 折，适用套餐及其他条件以结算页为准。
 >
+
+安迪云（AnDy）提供 **VLESS 协议**节点，支持通用订阅，套餐按流量、标注速率和设备数量区分。轻量年付套餐为 **¥30/年、50GB/月**，折合 **¥2.50/月**；月付从 **¥5/月、100GB/月**起，最高流量档为 **1000GB/月**。另有 **¥100/1000GB** 的一次性不限时流量包，可按使用频率选择周期订阅或固定总流量。
 
 <a id="andy-official-website"></a>
 
